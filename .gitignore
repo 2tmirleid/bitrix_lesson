@@ -1,2 +1,7 @@
 test*
 /bitrix/
+/.idea
+/upload/
+.xml
+.csv
+.log
